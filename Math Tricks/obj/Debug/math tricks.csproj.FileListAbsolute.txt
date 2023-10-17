@@ -1,0 +1,8 @@
+D:\Projects\math tricks\bin\Debug\math tricks.exe.config
+D:\Projects\math tricks\bin\Debug\math tricks.exe
+D:\Projects\math tricks\bin\Debug\math tricks.pdb
+D:\Projects\math tricks\obj\Debug\math tricks.csproj.AssemblyReference.cache
+D:\Projects\math tricks\obj\Debug\math tricks.csproj.SuggestedBindingRedirects.cache
+D:\Projects\math tricks\obj\Debug\math tricks.csproj.CoreCompileInputs.cache
+D:\Projects\math tricks\obj\Debug\math tricks.exe
+D:\Projects\math tricks\obj\Debug\math tricks.pdb
